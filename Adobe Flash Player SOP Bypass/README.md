@@ -1,3 +1,4 @@
+More details in issue.md
 <pre>
 Vulnerability name:
 ActionScript loadMovie() does not verify the MIME type of imported files which leads to security sandbox partial bypass (same-origin flashing and XSS).
