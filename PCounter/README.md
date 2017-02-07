@@ -7,5 +7,5 @@ CVE-2014-2997	Authentication bypassing allowing direct access to print queues (u
 CVE-2014-2998	Public access to logs and printed files (Web Print, lack of data access control, IDOR)
 CVE-2014-2999	Possiblity to print at other's expense, tampering the accountability
 
-Details and exploits in login_with_space_as_password.avi and ../presentations/In%20the%20middle%20of%20printers%20-%20(in)security%20of%20pull%20printing%20solutions/HITB-Kaluzny_final.pdf
+Details and exploits in login_with_space_as_password.avi and ../presentations/In the middle of printers - (in)security of pull printing solutions/HITB-Kaluzny_final.pdf
 </pre>
