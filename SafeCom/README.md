@@ -7,4 +7,5 @@ CVE-2013-6293	Lack of administrator account lockout mechanism allowing to brutef
 CVE-2013-6294	Predictable session identifier in web interface which allows user session hijacking.
 
 Details and exploits in safecom_cves_exploit.pdf
+More context in ../presentations/In the middle of printers - (in)security of pull printing solutions/HITB-Kaluzny_final.pdf
 </pre>
