@@ -6,5 +6,5 @@ CVE-2013-6291	Authentication bypass - ability to send print jobs on behalf of an
 CVE-2013-6293	Lack of administrator account lockout mechanism allowing to bruteforce administrative credentials
 CVE-2013-6294	Predictable session identifier in web interface which allows user session hijacking.
 
-Details and exploits in safecom_cves_exploit_description.md
+Details and exploits in safecom_cves_exploit.pdf
 </pre>
