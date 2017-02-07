@@ -6,7 +6,7 @@ CONFidence 2016, Poland <br/>
 Infosecurity Europe, 2016, UK<br/> 
 OWASP AppSec Asia 2016, China <br/>
 OWASP Doha, 2016, Qatar<br/>
-BigData Technology Summit, 2016, Poland
+BigData Technology Summit, 2016, Poland<br/>
 ZeroNights 2015, Russia<br/>
 BSides London 2015, UK<br/>
 CONFidence 2015, Poland<br/>
