@@ -61,5 +61,5 @@ and</p>
 <li style="margin:2.4rem 0px 2.4rem 3.2rem; padding:0px; border:0px; outline:0px; vertical-align:baseline; background:0px 0px; list-style-type:inherit">
 you can upload SWF files with JPG extension on the server</li></ul>
 <p style="margin:3.2rem 0px; padding:0px; border:0px; outline:0px; font-size:21px; vertical-align:baseline; background:0px 0px; font-family:&quot;Source Serif Pro&quot;,serif; line-height:32px; counter-reset:list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space:pre-wrap">
-It is most likely vulnerable to XSS.</p>
+It is most likely vulnerable to XSS. You can find PoC exploit in this directory (description in README.md)</p>
 <br>
