@@ -3,7 +3,8 @@
 <div id="x_divtagdefaultwrapper" dir="ltr" style="font-size:12pt; color:#000000; font-family:Calibri,Arial,Helvetica,sans-serif">
 <p></p>
 <p style="margin-right:0px; margin-bottom:3.2rem; margin-left:0px; padding:0px; border:0px; outline:0px; font-size:21px; vertical-align:baseline; background:0px 0px; font-family:&quot;Source Serif Pro&quot;,serif; line-height:32px; counter-reset:list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space:pre-wrap">
-<pre>Jakub Kaluzny</pre><br/><br/>
+<pre>Adobe Flash Player SOP bypass a.k.a. "same-site flashing via JPG file
+Jakub Kaluzny</pre><br/><br/>
 
 Recently I have been pentesting a web application, which utilised one of popular SWF libraries. It turned out that few really low risk issues can result in a tricky XSS when combined together. The attack wouldn't be normally possible due to Same Origin Policy guaranteed by Adobe Flash but in specific circumstances it is possible to abuse it.</p>
 <h3 style="margin:2.4rem 0px; padding:0px; border:0px; outline:0px; font-size:21px; vertical-align:baseline; background:0px 0px; font-family:&quot;Source Sans Pro&quot;,Helvetica,Arial,sans-serif; line-height:28px; counter-reset:list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space:pre-wrap">
